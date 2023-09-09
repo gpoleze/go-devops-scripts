@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/gpoleze/go-devops-scripts/pkg/aws/ec2"
+	"github.com/gpoleze/go-devops-scripts/aws/ec2"
 	"github.com/jedib0t/go-pretty/v6/table"
 	"os"
 	"reflect"
